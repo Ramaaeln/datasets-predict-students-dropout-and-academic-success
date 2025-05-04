@@ -1,4 +1,4 @@
-<h1>HELLO EVERYONE 😊</h1>
+<h1>HI...😊</h1>
 <p>
   Proyek ini mendemonstrasikan alur kerja machine learning secara menyeluruh menggunakan dataset dari <strong>UCI Machine Learning Repository</strong>. Di dalamnya mencakup preprocessing data, analisis eksploratif (EDA), dan implementasi dua model klasifikasi klasik: Naive Bayes dan Decision Tree.
 
