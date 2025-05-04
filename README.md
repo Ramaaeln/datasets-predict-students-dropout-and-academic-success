@@ -7,7 +7,7 @@
 <h3>📌Tujuan Proyek ini</h3>
 <li> Memuat dan membersihkan dataset dari UCI </li>
 <li> Melakukan analisis eksploratif data (EDA) </li>
-<li> Menerapkan klasifikasi menggunakan: </li>Naive Bayes Classifier dan Decision Tree Classifier
+<li> Menerapkan klasifikasi menggunakan: Naive Bayes Classifier dan Decision Tree Classifier
 <li> Mengevaluasi model menggunakan akurasi dan confusion matrix </li>
 <li> Memvisualisasikan hasil untuk interpretasi yang lebih baik </li>
 
